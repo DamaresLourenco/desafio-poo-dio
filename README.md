@@ -4,7 +4,7 @@
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
     💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
-
+<h2> MEU PROJETO</h2>
 
 <h2>🛑 Pré-Requisitos</h2>
 
@@ -55,7 +55,9 @@ Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando ca
 
 <p>Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica é chamada de polimorfismo.</p>
 <br>
-<h2 align="center"> ‼️ CONCEITOS FUNDAMENTAIS POO ‼️ </h2>
+
+<h2 align="center"> CONCEITOS FUNDAMENTAIS POO </h2>
+
 <p>
 <h3>🔻 DOMÍNIO:</h3> 
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
@@ -111,8 +113,7 @@ Linguagens compiladas: C, C++, Pascal, D, GO, etc.<br>
 Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.<br>
 Linguagens Hibridas: Java, Erlang, Elixir, etc.<br>
 
-
-<h3> ✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h3> 
+<h2> ✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h2>
 
 É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.<br>
 <br>
@@ -146,7 +147,7 @@ Se possível:<br>
 </p>
 
 
-
 ------------
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+❤ [DAMARES](github.com/DamaresLourenco)
