@@ -6,6 +6,49 @@
 
 <h2> MEU PROJETO</h2>
 
+**⚠ OBS: Para acessar meu projeto deve se fazer download do arquivo desafio-poo-dio.zip**
+<p>
+✅ Objetivo do Desafio<br>
+Criar um banco digital com as seguintes entidades: <br>
+-Cliente <br>
+-Conta (abstrata) <br>
+-ContaCorrente <br>
+-ContaPoupanca <br>
+-Banco <br>
+-Aplicando Abstração, Encapsulamento, Herança e Polimorfismo. <br>
+
+</p>
+
+<h2>Estruturado Projeto</h2>
+desafio-poo-dio/
+│
+
+├── src/
+
+│   ├── Banco.java
+
+│   ├── Cliente.java
+
+│   ├── Conta.java
+
+│   ├── ContaCorrente.java
+
+│   ├── ContaPoupanca.java
+
+│   └── Main.java
+
+│
+└── README.md
+
+<h2>📌 O que implementar (resumo prático): </h2>
+
+✅ Classe Cliente
+✅ Classe abstrata Conta
+✅ Conta Corrente e Conta Poupança
+✅ Classe Banco
+✅ Classe Main (para testar)
+
+
 <h2>🛑 Pré-Requisitos</h2>
 
 <p>
